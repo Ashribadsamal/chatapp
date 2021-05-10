@@ -33,7 +33,7 @@ function Sidebar(props) {
     return (
         <Container>
             <WorkSpaceContainer>
-                <Name>Slack clone</Name>
+                <Name>Chat clone</Name>
                 <NewMessage>
                   <AddCircleIcon/>
                 </NewMessage>
