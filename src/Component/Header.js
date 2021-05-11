@@ -9,9 +9,9 @@ function Header({user , signOut}) {
             <Main>
                <AccessTimeIcon/>
                <SearchContainer>
-                   <Search>
+                   {/* <Search>
                        <input type="text" placeholder="search...."/>
-                   </Search>
+                   </Search> */}
                </SearchContainer>
                <HelpIcon/>
                
